@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PfScanner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_scan">Scan</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
